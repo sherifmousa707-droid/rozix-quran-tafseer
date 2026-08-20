@@ -1,6 +1,6 @@
 # 📖 Rozix Quran Tafseer
 
-**Rozix Quran Tafseer** هو تطبيق أندرويد مجاني يتيح قراءة القرآن الكريم مع عدة مصادر للتفسير، ويعمل بالكامل **بدون الحاجة إلى اتصال بالإنترنت** وبدون أي إعلانات، ليقدم تجربة قراءة **هادئة وسريعة**.
+**Rozix Quran Tafseer** هو تطبيق أندرويد مجاني يتيح قراءة القرآن الكريم مع عدة مصادر للتفسير، ويعمل بالكامل **بدون الاتصال بالإنترنت**.
 
 ## ✨ المميزات
 
@@ -19,7 +19,7 @@
 
 ## 🎯 هدف التطبيق
 
-يوفر **Rozix Quran Tafseer** وسيلة بسيطة ومريحة لقراءة القرآن الكريم مع الاطلاع على التفسير مباشرة أثناء القراءة، دون الحاجة لاتصال بالإنترنت.
+يوفر **Rozix Quran Tafseer** وسيلة بسيطة ومريحة لقراءة القرآن الكريم مع الاطلاع على التفسير مباشرة أثناء القراءة، دون الحاجة للاتصال بالإنترنت.
 
 ## 📱 لقطات الشاشة
 
@@ -32,6 +32,14 @@
 ![Screenshot 3](Screenshot_2026-07-24-12-16-37-90_bc99ccfb4bc238558a9da2152f6a5db0.jpg)
 
 </div>
+
+---
+
+## 📥 التحميل
+
+قم بتحميل التطبيق مجانًا من متجر Google Play:
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">](https://play.google.com/store/apps/details?id=com.sherif.rozixqurantafseer)
 
 ---
 
